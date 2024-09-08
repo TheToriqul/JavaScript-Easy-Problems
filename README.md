@@ -1,1 +1,1 @@
-# javascript-simple-coding-problems
+# JavaScript-Simple-Coding-Problems
