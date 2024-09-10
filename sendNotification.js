@@ -1,5 +1,3 @@
-// sendNotification.js
-
 function sendNotification(email) {
   if (typeof email !== 'string' || !email.includes('@')) {
     return "Invalid Email";

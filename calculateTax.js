@@ -1,5 +1,3 @@
-// calculateTax.js
-
 function calculateTax(income, expenses) {
   if (typeof income !== 'number' || typeof expenses !== 'number' || income < 0 || expenses < 0 || expenses > income) {
     return "Invalid Input";
